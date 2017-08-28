@@ -1,0 +1,465 @@
+2017-08-28T07:00:11.826Z - normal: Load ~/.CocosCreator/settings.json
+2017-08-28T07:00:11.831Z - normal: checking language setting...
+2017-08-28T07:00:11.832Z - normal: Language: zh
+2017-08-28T07:00:12.513Z - success: protocol editor-framework registered
+2017-08-28T07:00:12.514Z - success: protocol app registered
+2017-08-28T07:00:12.514Z - success: protocol theme registered
+2017-08-28T07:00:12.514Z - success: protocol profile registered
+2017-08-28T07:00:12.514Z - success: protocol packages registered
+2017-08-28T07:00:12.517Z - success: protocol unpack registerred
+2017-08-28T07:00:12.517Z - success: protocol disable-commonjs registerred
+2017-08-28T07:00:12.795Z - normal: connected!
+2017-08-28T07:00:12.797Z - normal: Check project /Users/rd/Desktop/complete_project
+2017-08-28T07:00:12.798Z - normal: Initializing Cocos2d
+2017-08-28T07:00:12.983Z - normal: Initializing Asset Database
+2017-08-28T07:00:13.018Z - success: protocol uuid registerred
+2017-08-28T07:00:13.019Z - success: protocol db registerred
+2017-08-28T07:00:13.020Z - success: protocol thumbnail registerred
+2017-08-28T07:00:13.020Z - normal: Loading editor/builtin packages
+2017-08-28T07:00:13.042Z - success: anysdk loaded
+2017-08-28T07:00:13.193Z - success: assets loaded
+2017-08-28T07:00:13.197Z - success: builder loaded
+2017-08-28T07:00:13.202Z - success: hierarchy loaded
+2017-08-28T07:00:13.207Z - success: inspector loaded
+2017-08-28T07:00:13.209Z - success: keystore loaded
+2017-08-28T07:00:13.214Z - success: node-library loaded
+2017-08-28T07:00:13.216Z - success: package-asset loaded
+2017-08-28T07:00:13.218Z - success: preferences loaded
+2017-08-28T07:00:13.221Z - success: project-exporter loaded
+2017-08-28T07:00:13.239Z - success: project-importer loaded
+2017-08-28T07:00:13.244Z - success: project-settings loaded
+2017-08-28T07:00:13.249Z - success: ui-kit loaded
+2017-08-28T07:00:13.254Z - success: ui-grid loaded
+2017-08-28T07:00:13.263Z - success: scene loaded
+2017-08-28T07:00:13.264Z - success: sprite-editor loaded
+2017-08-28T07:00:13.271Z - success: store loaded
+2017-08-28T07:00:13.277Z - success: timeline loaded
+2017-08-28T07:00:13.278Z - normal: Loading builtin packages
+2017-08-28T07:00:13.283Z - success: asset-db-debugger loaded
+2017-08-28T07:00:13.284Z - success: color-picker loaded
+2017-08-28T07:00:13.289Z - success: console loaded
+2017-08-28T07:00:13.295Z - success: package-manager loaded
+2017-08-28T07:00:13.301Z - success: sdkbox loaded
+2017-08-28T07:00:13.306Z - success: tester loaded
+2017-08-28T07:00:13.311Z - success: ui-kit-preview-extra loaded
+2017-08-28T07:00:13.316Z - success: ui-kit-preview loaded
+2017-08-28T07:00:13.320Z - success: ui-tree loaded
+2017-08-28T07:00:14.270Z - normal: Initializing project /Users/rd/Desktop/complete_project
+2017-08-28T07:00:14.275Z - normal: Loading packages
+2017-08-28T07:00:14.281Z - normal: Watching packages
+2017-08-28T07:00:14.295Z - normal: Run Application
+2017-08-28T07:00:14.956Z - success: preview server running at http://localhost:7456
+2017-08-28T07:00:20.422Z - normal: 1.6.0
+2017-08-28T07:03:36.862Z - info: Path: Canvas/score, UUID: 59f2eQR+f9IG5aV/D0rZeiR
+2017-08-28T07:50:09.980Z - warn: /Users/rd/Desktop/complete_project/build not exists!
+2017-08-28T07:50:18.662Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:67360
+2017-08-28T07:50:39.466Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:13511)
+    at EventEmitter.ipcRenderer.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4424)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-08-28T07:50:47.699Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/rd/Desktop",
+  "debug": false,
+  "dest": "/Users/rd/Desktop/jsb-default",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.complete_project",
+  "platform": "mac",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "5dcd99cb-77a4-4c95-a7d8-4b5b45295ae5"
+  ],
+  "sourceMaps": false,
+  "startScene": "5dcd99cb-77a4-4c95-a7d8-4b5b45295ae5",
+  "template": "default",
+  "title": "complete_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "/Users/rd/Desktop/complete_project",
+  "projectName": "complete_project",
+  "debugBuildWorker": false
+}
+2017-08-28T07:50:47.705Z - normal: Building /Users/rd/Desktop/complete_project
+2017-08-28T07:50:47.706Z - normal: Destination /Users/rd/Desktop/jsb-default
+2017-08-28T07:50:48.176Z - normal: Checked Python Version [2.7.10]
+2017-08-28T07:50:49.522Z - normal: Creating native cocos project to  /Users/rd/Desktop/jsb-default
+2017-08-28T07:50:58.645Z - normal: Delete /Users/rd/Desktop/jsb-default/res/**/*
+2017-08-28T07:50:58.647Z - normal: Delete /Users/rd/Desktop/jsb-default/src/*/
+2017-08-28T07:50:58.804Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2017-08-28T07:51:01.546Z - normal: Compiled project javascript file successfully
+2017-08-28T07:51:01.547Z - normal: Start building assets
+2017-08-28T07:51:01.547Z - normal: Start spawn build-worker
+2017-08-28T07:51:02.650Z - normal: Finish spawn build-worker
+2017-08-28T07:51:02.650Z - normal: Start init build-worker
+2017-08-28T07:51:05.705Z - normal: 1.6.0
+2017-08-28T07:51:05.869Z - normal: Finish init build-worker
+2017-08-28T07:51:05.869Z - normal: Start build-assets in worker
+2017-08-28T07:51:06.060Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2017-08-28T07:51:06.277Z - normal: Finish build-assets in worker
+2017-08-28T07:51:06.283Z - normal: Finish building assets
+2017-08-28T07:51:06.327Z - normal: Start building raw assets
+2017-08-28T07:51:06.329Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/audio/jump.mp3 to /Users/rd/Desktop/jsb-default/res/raw-assets/audio/jump.mp3
+2017-08-28T07:51:06.330Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/audio/score.mp3 to /Users/rd/Desktop/jsb-default/res/raw-assets/audio/score.mp3
+2017-08-28T07:51:06.330Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/mikado_outline_shadow.png to /Users/rd/Desktop/jsb-default/res/raw-assets/mikado_outline_shadow.png
+2017-08-28T07:51:06.330Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/textures/PurpleMonster.png to /Users/rd/Desktop/jsb-default/res/raw-assets/textures/PurpleMonster.png
+2017-08-28T07:51:06.331Z - normal: Start building plugin scripts
+2017-08-28T07:51:06.359Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/textures/PurpleMonster.png to /Users/rd/Desktop/jsb-default/res/raw-assets/textures/PurpleMonster.png
+2017-08-28T07:51:06.360Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/textures/background.jpg to /Users/rd/Desktop/jsb-default/res/raw-assets/textures/background.jpg
+2017-08-28T07:51:06.373Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/mikado_outline_shadow.png to /Users/rd/Desktop/jsb-default/res/raw-assets/mikado_outline_shadow.png
+2017-08-28T07:51:06.373Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/textures/ground.png to /Users/rd/Desktop/jsb-default/res/raw-assets/textures/ground.png
+2017-08-28T07:51:06.375Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/audio/jump.mp3 to /Users/rd/Desktop/jsb-default/res/raw-assets/audio/jump.mp3
+2017-08-28T07:51:06.376Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/textures/star.png to /Users/rd/Desktop/jsb-default/res/raw-assets/textures/star.png
+2017-08-28T07:51:06.377Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/audio/score.mp3 to /Users/rd/Desktop/jsb-default/res/raw-assets/audio/score.mp3
+2017-08-28T07:51:06.382Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/textures/background.jpg to /Users/rd/Desktop/jsb-default/res/raw-assets/textures/background.jpg
+2017-08-28T07:51:06.387Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/textures/ground.png to /Users/rd/Desktop/jsb-default/res/raw-assets/textures/ground.png
+2017-08-28T07:51:06.388Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/textures/star.png to /Users/rd/Desktop/jsb-default/res/raw-assets/textures/star.png
+2017-08-28T07:51:06.389Z - normal: Finish building raw assets
+2017-08-28T07:51:06.424Z - normal: Checked Python Version [2.7.10]
+2017-08-28T07:51:08.448Z - normal: Built to "/Users/rd/Desktop/jsb-default" successfully
+2017-08-28T07:51:55.411Z - normal: Checked Python Version [2.7.10]
+2017-08-28T07:51:56.623Z - normal: Start to compile native project. Please wait...
+2017-08-28T07:51:56.624Z - normal: The log file path [ /Users/rd/.CocosCreator/logs/native.log ]
+2017-08-28T07:52:46.010Z - normal: Compile native project exited normal
+2017-08-28T07:52:47.363Z - normal: Start to run project
+2017-08-28T07:52:47.399Z - normal: Checked Python Version [2.7.10]
+2017-08-28T07:52:48.583Z - normal: Start to run project. Please wait...
+2017-08-28T07:52:48.583Z - normal: The log file path [ /Users/rd/.CocosCreator/logs/native.log ]
+2017-08-28T07:55:23.799Z - normal: Start to run project
+2017-08-28T07:55:23.843Z - normal: Checked Python Version [2.7.10]
+2017-08-28T07:55:24.053Z - failed: Error: Failed to run project. The log file path [ /Users/rd/.CocosCreator/logs/native.log ]
+    at ChildProcess.handleChildProcess (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:20654)
+    at ChildProcess.e.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:7613)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:191:7)
+    at maybeClose (internal/child_process.js:877:16)
+    at Socket.<anonymous> (internal/child_process.js:334:11)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at Pipe._handle.close [as _onclose] (net.js:493:12)
+2017-08-28T07:55:25.187Z - normal: Start to run project. Please wait...
+2017-08-28T07:55:25.187Z - normal: The log file path [ /Users/rd/.CocosCreator/logs/native.log ]
+2017-08-28T07:56:06.823Z - failed: Error: Failed to run project. The log file path [ /Users/rd/.CocosCreator/logs/native.log ]
+    at ChildProcess.handleChildProcess (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:20654)
+    at ChildProcess.e.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:7613)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:191:7)
+    at maybeClose (internal/child_process.js:877:16)
+    at Socket.<anonymous> (internal/child_process.js:334:11)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at Pipe._handle.close [as _onclose] (net.js:493:12)
+2017-08-28T07:56:45.882Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/rd/Desktop",
+  "debug": false,
+  "dest": "/Users/rd/Desktop/web-desktop",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.complete_project",
+  "platform": "web-desktop",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "5dcd99cb-77a4-4c95-a7d8-4b5b45295ae5"
+  ],
+  "sourceMaps": false,
+  "startScene": "5dcd99cb-77a4-4c95-a7d8-4b5b45295ae5",
+  "template": "default",
+  "title": "complete_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "/Users/rd/Desktop/complete_project",
+  "projectName": "complete_project",
+  "debugBuildWorker": false
+}
+2017-08-28T07:56:45.885Z - normal: Building /Users/rd/Desktop/complete_project
+2017-08-28T07:56:45.886Z - normal: Destination /Users/rd/Desktop/web-desktop
+2017-08-28T07:58:06.354Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:75870
+2017-08-28T07:58:06.359Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:75873
+2017-08-28T07:58:06.361Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:75875
+2017-08-28T07:58:06.363Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:75877
+2017-08-28T07:58:06.364Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:75879
+2017-08-28T07:58:06.365Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:75881
+2017-08-28T07:58:06.367Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:75883
+2017-08-28T07:58:06.369Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:75885
+2017-08-28T07:58:06.370Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:75887
+2017-08-28T07:58:06.372Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:75889
+2017-08-28T07:58:06.497Z - normal: Delete /Users/rd/Desktop/web-desktop/res/**/*
+2017-08-28T07:58:06.505Z - normal: Delete /Users/rd/Desktop/web-desktop/src/*/
+2017-08-28T07:58:08.856Z - normal: Compiled project javascript file successfully
+2017-08-28T07:58:08.934Z - normal: Start building assets
+2017-08-28T07:58:08.934Z - normal: Start spawn build-worker
+2017-08-28T07:58:09.854Z - normal: Finish spawn build-worker
+2017-08-28T07:58:09.854Z - normal: Start init build-worker
+2017-08-28T07:58:12.140Z - normal: 1.6.0
+2017-08-28T07:58:12.326Z - normal: Finish init build-worker
+2017-08-28T07:58:12.326Z - normal: Start build-assets in worker
+2017-08-28T07:58:13.047Z - normal: Finish build-assets in worker
+2017-08-28T07:58:13.053Z - normal: Finish building assets
+2017-08-28T07:58:13.096Z - normal: Start building raw assets
+2017-08-28T07:58:13.097Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/audio/jump.mp3 to /Users/rd/Desktop/web-desktop/res/raw-assets/audio/jump.mp3
+2017-08-28T07:58:13.098Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/audio/score.mp3 to /Users/rd/Desktop/web-desktop/res/raw-assets/audio/score.mp3
+2017-08-28T07:58:13.098Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/mikado_outline_shadow.png to /Users/rd/Desktop/web-desktop/res/raw-assets/mikado_outline_shadow.png
+2017-08-28T07:58:13.099Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/textures/PurpleMonster.png to /Users/rd/Desktop/web-desktop/res/raw-assets/textures/PurpleMonster.png
+2017-08-28T07:58:13.099Z - normal: Start building plugin scripts
+2017-08-28T07:58:13.115Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/textures/PurpleMonster.png to /Users/rd/Desktop/web-desktop/res/raw-assets/textures/PurpleMonster.png
+2017-08-28T07:58:13.115Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/textures/background.jpg to /Users/rd/Desktop/web-desktop/res/raw-assets/textures/background.jpg
+2017-08-28T07:58:13.117Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/mikado_outline_shadow.png to /Users/rd/Desktop/web-desktop/res/raw-assets/mikado_outline_shadow.png
+2017-08-28T07:58:13.117Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/textures/ground.png to /Users/rd/Desktop/web-desktop/res/raw-assets/textures/ground.png
+2017-08-28T07:58:13.118Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/audio/jump.mp3 to /Users/rd/Desktop/web-desktop/res/raw-assets/audio/jump.mp3
+2017-08-28T07:58:13.118Z - normal: [build-raw-assets] Start copying /Users/rd/Desktop/complete_project/assets/textures/star.png to /Users/rd/Desktop/web-desktop/res/raw-assets/textures/star.png
+2017-08-28T07:58:13.119Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/audio/score.mp3 to /Users/rd/Desktop/web-desktop/res/raw-assets/audio/score.mp3
+2017-08-28T07:58:13.122Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/textures/background.jpg to /Users/rd/Desktop/web-desktop/res/raw-assets/textures/background.jpg
+2017-08-28T07:58:13.123Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/textures/ground.png to /Users/rd/Desktop/web-desktop/res/raw-assets/textures/ground.png
+2017-08-28T07:58:13.124Z - normal: [build-raw-assets] Finish copying /Users/rd/Desktop/complete_project/assets/textures/star.png to /Users/rd/Desktop/web-desktop/res/raw-assets/textures/star.png
+2017-08-28T07:58:13.124Z - normal: Finish building raw assets
+2017-08-28T07:58:13.164Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2017-08-28T07:58:13.180Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2017-08-28T07:58:13.195Z - normal: Built to "/Users/rd/Desktop/web-desktop" successfully
+2017-08-28T07:59:45.617Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/local.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at _setCurrentScene (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/main.js:1:1023)
+    at Object.set-current-scene (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/main.js:1:3240)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7)
+    at _main2mainOpts (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/ipc.js:1:1448)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:49.515Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/layout.windows.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at Function._saveWindowStates (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/window.js:1:8122)
+    at BrowserWindow.Window.nativeWin.on.e (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/window.js:1:2043)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:49.527Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/hierarchy.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at EventEmitter.ipcMain.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:2157)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/electron.asar/browser/api/web-contents.js:222:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:49.529Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/assets.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at EventEmitter.ipcMain.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:2157)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/electron.asar/browser/api/web-contents.js:222:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:49.582Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/hierarchy.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at EventEmitter.ipcMain.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:2157)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/electron.asar/browser/api/web-contents.js:222:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:49.585Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/assets.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at EventEmitter.ipcMain.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:2157)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/electron.asar/browser/api/web-contents.js:222:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:54.772Z - normal: 1.6.0
+2017-08-28T07:59:54.826Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/layout.windows.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at Function._saveWindowStates (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/window.js:1:8122)
+    at EventEmitter.ipcMain.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/window.js:1:10007)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7)
+    at WebContents.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/electron.asar/browser/api/web-contents.js:222:13)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:57.558Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/layout.windows.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at Function._saveWindowStates (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/window.js:1:8122)
+    at BrowserWindow.Window.nativeWin.on.e (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/window.js:1:2043)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:57.563Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/hierarchy.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at EventEmitter.ipcMain.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:2157)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/electron.asar/browser/api/web-contents.js:222:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:57.565Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/assets.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at EventEmitter.ipcMain.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:2157)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/electron.asar/browser/api/web-contents.js:222:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:57.631Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/hierarchy.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at EventEmitter.ipcMain.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:2157)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/electron.asar/browser/api/web-contents.js:222:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:57.635Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/assets.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at EventEmitter.ipcMain.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:2157)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/electron.asar/browser/api/web-contents.js:222:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:191:7)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T07:59:59.003Z - error: Error: ENOENT: no such file or directory, open '/Users/rd/Desktop/complete_project/local/layout.windows.json'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.module.(anonymous function) [as openSync] (ELECTRON_ASAR.js:191:20)
+    at Object.fs.writeFileSync (fs.js:1343:33)
+    at _Profile.save (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/profile.js:1:1604)
+    at Function._saveWindowStates (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/window.js:1:8122)
+    at BrowserWindow.Window.nativeWin.on.e (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/main/window.js:1:2043)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+    at process.on.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/editor-init.js:1:992)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (bootstrap_node.js:304:26)
+2017-08-28T08:00:00.891Z - info: shutdown preview server

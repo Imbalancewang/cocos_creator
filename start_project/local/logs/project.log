@@ -1,0 +1,64 @@
+2017-08-27T03:13:54.052Z - normal: Load ~/.CocosCreator/settings.json
+2017-08-27T03:13:54.059Z - normal: checking language setting...
+2017-08-27T03:13:54.059Z - normal: Language: zh
+2017-08-27T03:13:54.699Z - success: protocol editor-framework registered
+2017-08-27T03:13:54.700Z - success: protocol app registered
+2017-08-27T03:13:54.700Z - success: protocol theme registered
+2017-08-27T03:13:54.700Z - success: protocol profile registered
+2017-08-27T03:13:54.700Z - success: protocol packages registered
+2017-08-27T03:13:54.704Z - success: protocol unpack registerred
+2017-08-27T03:13:54.704Z - success: protocol disable-commonjs registerred
+2017-08-27T03:13:54.967Z - normal: connected!
+2017-08-27T03:13:54.972Z - normal: Check project /Users/rd/Desktop/start_project
+2017-08-27T03:13:54.974Z - normal: Initializing Cocos2d
+2017-08-27T03:13:55.181Z - normal: Initializing Asset Database
+2017-08-27T03:13:55.211Z - success: protocol uuid registerred
+2017-08-27T03:13:55.212Z - success: protocol db registerred
+2017-08-27T03:13:55.212Z - success: protocol thumbnail registerred
+2017-08-27T03:13:55.212Z - normal: Loading editor/builtin packages
+2017-08-27T03:13:55.238Z - success: anysdk loaded
+2017-08-27T03:13:55.383Z - success: assets loaded
+2017-08-27T03:13:55.388Z - success: builder loaded
+2017-08-27T03:13:55.393Z - success: hierarchy loaded
+2017-08-27T03:13:55.399Z - success: inspector loaded
+2017-08-27T03:13:55.400Z - success: keystore loaded
+2017-08-27T03:13:55.406Z - success: node-library loaded
+2017-08-27T03:13:55.408Z - success: package-asset loaded
+2017-08-27T03:13:55.410Z - success: preferences loaded
+2017-08-27T03:13:55.414Z - success: project-exporter loaded
+2017-08-27T03:13:55.433Z - success: project-importer loaded
+2017-08-27T03:13:55.438Z - success: project-settings loaded
+2017-08-27T03:13:55.443Z - success: ui-kit loaded
+2017-08-27T03:13:55.449Z - success: ui-grid loaded
+2017-08-27T03:13:55.455Z - success: scene loaded
+2017-08-27T03:13:55.456Z - success: sprite-editor loaded
+2017-08-27T03:13:55.463Z - success: store loaded
+2017-08-27T03:13:55.470Z - success: timeline loaded
+2017-08-27T03:13:55.470Z - normal: Loading builtin packages
+2017-08-27T03:13:55.476Z - success: asset-db-debugger loaded
+2017-08-27T03:13:55.477Z - success: color-picker loaded
+2017-08-27T03:13:55.483Z - success: console loaded
+2017-08-27T03:13:55.488Z - success: package-manager loaded
+2017-08-27T03:13:55.495Z - success: sdkbox loaded
+2017-08-27T03:13:55.500Z - success: tester loaded
+2017-08-27T03:13:55.506Z - success: ui-kit-preview-extra loaded
+2017-08-27T03:13:55.510Z - success: ui-kit-preview loaded
+2017-08-27T03:13:55.514Z - success: ui-tree loaded
+2017-08-27T03:13:56.533Z - normal: Initializing project /Users/rd/Desktop/start_project
+2017-08-27T03:13:56.535Z - normal: Loading packages
+2017-08-27T03:13:56.541Z - normal: Watching packages
+2017-08-27T03:13:56.556Z - normal: Run Application
+2017-08-27T03:13:57.418Z - success: preview server running at http://localhost:7456
+2017-08-27T03:14:02.741Z - normal: 1.6.0
+2017-08-27T09:24:21.609Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:78144
+2017-08-27T09:24:34.189Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:78244
+2017-08-27T09:39:04.251Z - warn: The Asset used is missing. Detailed information:
+Missing uuid: "486d7773-a858-4fcd-8fec-c776351a4d7f"
+
+2017-08-27T09:46:13.908Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:99124
+2017-08-27T12:05:18.515Z - error: TypeError: Cannot read property 'target' of null
+    at ui-panel-frame._applyPopup (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/inspector/panel/index.js:1:8374)
+    at asset._selectType._vm._vm.target.__dirty__._selectID.Editor.assetdb.queryInfoByUuid (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/inspector/panel/index.js:1:8309)
+    at EventEmitter.ipcRenderer.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4424)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
